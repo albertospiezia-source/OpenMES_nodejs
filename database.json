@@ -1,4 +1,6 @@
 [
-  { "id": 1, "codice": "BULL01", "desc": "Bullone M8", "scorta": 100 },
-  { "id": 2, "codice": "VITE02", "desc": "Vite 4x40", "scorta": 50 }
+  { "id": 1, "codice": "BULL01", "desc": "Bullone M8", "scorta": 100 }, 
+  { "id": 2, "codice": "VITE02", "desc": "Vite 4x40", "scorta": 50 },
+  { "id": 3, "codice": "VITE03", "desc": "Vite 4x40", "scorta": 50 }
 ]
+
